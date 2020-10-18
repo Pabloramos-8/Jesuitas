@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jesuitas</string>
+    <string name="centro_sagrado">Centro Sagrado Corazón Logroño</string>
+    <string name="correo">csc@jesuitasrioja.org</string>
+    <string name="direccion">Duques de Nájera 18,26002 Logroño</string>
+    <string name="telefono">941 22 17 00</string>
+    <string name="toast">Me gusta</string>
+</resources>
